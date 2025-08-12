@@ -1,4 +1,4 @@
-Loan Approval Prediction (Decision Trees)
+# Loan Approval Prediction (Decision Trees)
 
 **Description**  
 A Decision Tree model to predict whether a loan application will be approved based on applicant details from the Kaggle Loan Prediction dataset. This project explains how decision trees split data using information gain and Gini impurity.
